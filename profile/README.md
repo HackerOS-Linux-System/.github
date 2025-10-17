@@ -15,3 +15,26 @@ Mode activated with ctrl + g. Application inspired by Asus Armoury Crate.
 
 ## HackerOS Welcome
 HackerOS Welcome App.
+
+## Hacker Launcher
+Hacker Launcher is designed primarily to run .exe applications.
+
+## Proton Updater
+Proton ge update app.
+
+# HackerOS Sessions:
+
+## Hacker Mode
+Session uses GameScope. It's based on Hacker Launcher.
+
+## HackerOS also uses graphical environments - Wayfire and KDE Plasma
+
+# HackerOS Games:
+
+## Bit Jump
+An application written in lua inspired by geometry dash.
+
+## The Racer
+Unfortunately, the game written in Python does not quite work as it should.
+
+## 
