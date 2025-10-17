@@ -2,39 +2,40 @@
 # HackerOS based on Debian Testing
 A Linux distribution for everyone. Play and learn ethical hacking.
 
-# HackerOS Tools:
+## HackerOS Tools:
 
-## Hacker Package Manager
+### Hacker Package Manager
 Heart of HackerOS install additional software update the entire system quickly (flatpak snapshot firmware and apt)
 
-## HackerOS Connect
+### HackerOS Connect
 An application that connects your phone to your computer (equivalent to kde connect)
 
-## HackerOS Game Mode
+### HackerOS Game Mode
 Mode activated with ctrl + g. Application inspired by Asus Armoury Crate.
 
-## HackerOS Welcome
+### HackerOS Welcome
 HackerOS Welcome App.
 
-## Hacker Launcher
+### Hacker Launcher
 Hacker Launcher is designed primarily to run .exe applications.
 
-## Proton Updater
+### Proton Updater
 Proton ge update app.
 
-# HackerOS Sessions:
+## HackerOS Sessions:
 
-## Hacker Mode
+### Hacker Mode
 Session uses GameScope. It's based on Hacker Launcher.
 
-## HackerOS also uses graphical environments - Wayfire and KDE Plasma
+### HackerOS also uses graphical environments - Wayfire and KDE Plasma
 
-# HackerOS Games:
+## HackerOS Games:
 
-## Bit Jump
+### Bit Jump
 An application written in lua inspired by geometry dash.
 
-## The Racer
+### The Racer
 Unfortunately, the game written in Python does not quite work as it should.
 
-## 
+### StarBlaster
+A game inspired by Galaxy Attack written in Rust.
