@@ -27,8 +27,6 @@ Proton ge update app.
 ### Hacker Mode
 Session uses GameScope. It's based on Hacker Launcher.
 
-### HackerOS also uses graphical environments - Wayfire and KDE Plasma
-
 ## HackerOS Games:
 
 ### Bit Jump
