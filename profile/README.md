@@ -22,6 +22,9 @@ Hacker Launcher is designed primarily to run .exe applications.
 ### Proton Updater
 Proton ge update app.
 
+### Hacker Lang
+Programing Language for HackerOS. Uses repository bytes.io
+
 ## HackerOS Sessions:
 
 ### Hacker Mode
