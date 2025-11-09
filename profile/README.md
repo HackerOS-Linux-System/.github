@@ -4,7 +4,7 @@ A Linux distribution for everyone. Play and learn ethical hacking.
 
 ## HackerOS Tools:
 
-### Hacker Package Manager
+### Hacker CLI Tool
 Heart of HackerOS install additional software update the entire system quickly (flatpak snapshot firmware and apt)
 
 ### HackerOS Connect
