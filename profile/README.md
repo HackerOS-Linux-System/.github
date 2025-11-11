@@ -7,8 +7,8 @@ A Linux distribution for everyone. Play and learn ethical hacking.
 ### Hacker CLI Tool
 Heart of HackerOS install additional software update the entire system quickly (flatpak snapshot firmware and apt)
 
-### HackerOS Connect
-An application that connects your phone to your computer (equivalent to kde connect)
+### HackerOS App
+Application for phones.
 
 ### HackerOS Game Mode
 Mode activated with ctrl + g. Application inspired by Asus Armoury Crate.
