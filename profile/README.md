@@ -28,7 +28,13 @@ Programing Language for HackerOS. Uses repository bytes.io
 ## HackerOS Sessions:
 
 ### Hacker Mode
-Session uses GameScope. It's based on Hacker Launcher.
+Session uses cage. You can install it using hacker unpack hacker-mode.
+
+### Security Mode
+This is a cybersecurity session, it is a tool built into the cybersecurity edition, while in the regular edition you can install it using hacker unpack cybersecurity.
+
+### HackerOS TV
+Watching session install it using hacker unpack hackeros-tv.
 
 ## HackerOS Games:
 
