@@ -2,10 +2,12 @@
 # HackerOS based on Debian Testing
 A Linux distribution for everyone. Play and learn ethical hacking.
 
-## HackerOS Tools:
+## HackerOS CLI Tools:
 
 ### Hacker CLI Tool
 Heart of HackerOS install additional software update the entire system quickly (flatpak snapshot firmware and apt)
+
+## HackerOS Apps:
 
 ### HackerOS App
 Application for phones.
