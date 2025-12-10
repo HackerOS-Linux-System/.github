@@ -20,6 +20,7 @@ Library/plugin/source manager from the bytes repository for hacker lang.
 It is fronted for apt and tui for apt, flatpak, snap + its own aur inspired package repository.
 
 ### hup
+Automatic update system.
 
 
 ## HackerOS Apps:
