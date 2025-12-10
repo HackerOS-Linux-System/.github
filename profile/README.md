@@ -19,11 +19,13 @@ HackerOS Welcome App.
 ### Hacker Launcher
 Hacker Launcher is designed primarily to run .exe applications.
 
-### Proton Updater
-Proton ge update app.
+### HackerOS Steam
+Launch Steam in the container.
 
 ### Hacker Lang
 Programing Language for HackerOS. Uses repository bytes.io
+
+###
 
 ## HackerOS Sessions:
 
