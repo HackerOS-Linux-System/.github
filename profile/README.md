@@ -7,6 +7,18 @@ A Linux distribution for everyone. Play and learn ethical hacking.
 ### Hacker CLI Tool
 Heart of HackerOS install additional software update the entire system quickly (flatpak snapshot firmware and apt)
 
+### hackerc
+Programing Language for HackerOS. Uses repository bytes.io
+
+### hli
+
+### bytes
+
+### hpm
+
+### hup
+
+
 ## HackerOS Apps:
 
 ### HackerOS App
@@ -23,9 +35,6 @@ Hacker Launcher is designed primarily to run .exe applications.
 
 ### HackerOS Steam
 Launch Steam in the container.
-
-### Hacker Lang
-Programing Language for HackerOS. Uses repository bytes.io
 
 ###
 
