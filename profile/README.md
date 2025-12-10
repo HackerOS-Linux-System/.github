@@ -22,6 +22,8 @@ It is fronted for apt and tui for apt, flatpak, snap + its own aur inspired pack
 ### hup
 Automatic update system.
 
+### hedit
+Nano-inspired tool.
 
 ## HackerOS Apps:
 
