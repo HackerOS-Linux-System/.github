@@ -8,13 +8,16 @@ A Linux distribution for everyone. Play and learn ethical hacking.
 Heart of HackerOS install additional software update the entire system quickly (flatpak snapshot firmware and apt)
 
 ### hackerc
-Programing Language for HackerOS. Uses repository bytes.io
+Tool for smaller projects/scripts.
 
 ### hli
+A tool for larger projects in hacker lang.
 
 ### bytes
+Library/plugin/source manager from the bytes repository for hacker lang.
 
 ### hpm
+It is fronted for apt and tui for apt, flatpak, snap + its own aur inspired package repository.
 
 ### hup
 
