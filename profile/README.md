@@ -2,6 +2,9 @@
 # HackerOS based on Debian Testing
 A Linux distribution for everyone. Play and learn ethical hacking.
 
+# How often is HackerOS released ?
+HackerOS is released every 2 or 3 weeks. It used to be released every 1 or 2 weeks.
+
 ## HackerOS CLI Tools:
 
 ### hacker
