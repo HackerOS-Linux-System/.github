@@ -27,6 +27,9 @@ Nano-inspired tool.
 
 ## HackerOS Apps:
 
+### Hacker Tern
+Terminal for HackerOS.
+
 ### HackerOS App
 Application for phones.
 
