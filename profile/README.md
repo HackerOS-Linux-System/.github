@@ -2,6 +2,22 @@
 # HackerOS based on Debian Testing
 A Linux distribution for everyone. Play and learn ethical hacking.
 
+# HackerOS Editions
+## Official
+This is the standard edition of HackerOS. It's intended for casual users and gamers.
+
+### Xfce
+It is the same as the official edition but instead of KDE it has Xfce.
+
+### Gnome
+It is the same as the official edition but instead of KDE it has Gnome.
+
+## Cybersecurity
+HackerOS edition with pre-installed cybersecurity tools and special HackerOS tools.
+
+## Hydra
+The Hydra edition has the Garuda Linux look (partially) and has everything the same as the official one.
+
 # How often is HackerOS released ?
 HackerOS is released every 2 or 3 weeks. Previously, it was released every 1 or 2 weeks. Xfce and Gnome editions are available in versions x.0 and x.5.
 
