@@ -3,7 +3,7 @@
 A Linux distribution for everyone. Play and learn ethical hacking.
 
 # How often is HackerOS released ?
-HackerOS is released every 2 or 3 weeks. It used to be released every 1 or 2 weeks.
+HackerOS is released every 2 or 3 weeks. Previously, it was released every 1 or 2 weeks. Xfce and Gnome editions are available in versions x.0 and x.5.
 
 ## HackerOS CLI Tools:
 
