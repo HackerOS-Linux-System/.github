@@ -44,6 +44,9 @@ Automatic update system.
 ### hedit
 Nano-inspired tool.
 
+### isolator
+
+
 ## HackerOS Apps:
 
 ### Hacker Term
