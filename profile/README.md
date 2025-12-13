@@ -46,7 +46,7 @@ Nano-inspired tool.
 
 ## HackerOS Apps:
 
-### Hacker Tern
+### Hacker Term
 Terminal for HackerOS.
 
 ### HackerOS App
