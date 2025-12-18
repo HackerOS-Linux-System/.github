@@ -95,4 +95,4 @@ Unfortunately, the game written in Python does not quite work as it should.
 A game inspired by Galaxy Attack written in Rust.
 
 # Screenshots
-# ![HackerOS Official.]()
+# ![HackerOS Official.](https://github.com/HackerOS-Linux-System/HackerOS-Website/blob/main/official-edition.png)
