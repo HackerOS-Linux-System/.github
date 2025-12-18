@@ -13,10 +13,13 @@ It is the same as the official edition but instead of KDE it has Xfce.
 It is the same as the official edition but instead of KDE it has Gnome.
 
 ## Cybersecurity
-HackerOS edition with pre-installed cybersecurity tools and special HackerOS tools.
+HackerOS edition with pre-installed cybersecurity tools and special HackerOS tools. Based on Debian Stable
 
 ## Hydra
 The Hydra edition has the Garuda Linux look (partially) and has everything the same as the official one.
+
+## LTS
+This is the same version as the official one, but it has Debian stable instead of Debian testing.
 
 # How often is HackerOS released ?
 HackerOS is released every 2 or 3 weeks. Previously, it was released every 1 or 2 weeks. Xfce and Gnome editions are available in versions x.0 and x.5.
