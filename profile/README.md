@@ -50,6 +50,9 @@ Nano-inspired tool.
 ### isolator
 Install tools in isolated rootfs.
 
+### hammer
+Atomic cli tool for HackerOS - HackerOS edition atomic.
+
 ## HackerOS Apps:
 
 ### Hacker Term
