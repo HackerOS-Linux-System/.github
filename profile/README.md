@@ -48,7 +48,7 @@ Automatic update system.
 Nano-inspired tool.
 
 ### isolator
-
+Install tools in isolated rootfs.
 
 ## HackerOS Apps:
 
@@ -93,3 +93,6 @@ Unfortunately, the game written in Python does not quite work as it should.
 
 ### StarBlaster
 A game inspired by Galaxy Attack written in Rust.
+
+# Screenshots
+# ![HackerOS Official.]()
