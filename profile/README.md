@@ -96,3 +96,9 @@ A game inspired by Galaxy Attack written in Rust.
 
 # Screenshots
 # ![HackerOS Official.](https://github.com/HackerOS-Linux-System/HackerOS-Website/blob/main/official-edition.png)
+
+# ![HackerOS Hydra.](https://github.com/HackerOS-Linux-System/HackerOS-Website/blob/main/hydra-edition.png)
+
+# ![HackerOS Gnome.](https://github.com/HackerOS-Linux-System/HackerOS-Website/blob/main/gnome-edition.png)
+
+# ![HackerOS Xfce.](https://github.com/HackerOS-Linux-System/HackerOS-Website/blob/main/xfce-edition.png)
