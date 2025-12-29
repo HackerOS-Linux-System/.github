@@ -21,8 +21,11 @@ The Hydra edition has the Garuda Linux look (partially) and has everything the s
 ## LTS
 This is the same version as the official one, but it has Debian stable instead of Debian testing.
 
+## Atomic
+The Atomic edition is the immuntable edition of HackerOS. The system includes the Hammer tool for atomic updates, package installations, and container installations. The atomicity system applies to Btrfs snapshots.
+
 # How often is HackerOS released ?
-HackerOS is released every 2 or 3 weeks. Previously, it was released every 1 or 2 weeks. Xfce and Gnome editions are available in versions x.0 and x.5.
+HackerOS is released every 2 or 3 weeks. Previously, it was released every 1 or 2 weeks. Xfce, Gnome and Hydra editions are available in versions x.0 and x.5. However, the LTS version is released in versions x.0.
 
 ## HackerOS CLI Tools:
 
