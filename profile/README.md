@@ -32,17 +32,23 @@ HackerOS is released every 2 or 3 weeks. Previously, it was released every 1 or 
 ### hacker
 Heart of HackerOS install additional software update the entire system quickly (flatpak snapshot firmware and apt)
 
-### hackerc
+### hl
 Tool for smaller projects/scripts.
 
+## hackerc
+Compiler for Hacker Lang (to install run hacker unpack hl-addons).
+
+## hlp
+CLI version of hli (to install run hacker unpack hl-addons)
+
 ### hli
-A tool for larger projects in hacker lang.
+A tool for larger projects in hacker lang (in interactive).
 
 ### bytes
 Library/plugin/source manager from the bytes repository for hacker lang.
 
 ### hpm
-It is fronted for apt and tui for apt, flatpak, snap + its own aur inspired package repository.
+Community repository - a tool inspired by yay..
 
 ### hup
 Automatic update system.
@@ -54,7 +60,7 @@ Nano-inspired tool.
 Install tools in isolated rootfs.
 
 ### hammer
-Atomic cli tool for HackerOS - HackerOS edition atomic.
+Atomic cli tool for HackerOS editions atomic.
 
 ## HackerOS Apps:
 
