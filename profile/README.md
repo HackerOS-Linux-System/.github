@@ -35,10 +35,10 @@ Heart of HackerOS install additional software update the entire system quickly (
 ### hl
 Tool for smaller projects/scripts.
 
-## hackerc
+### hackerc
 Compiler for Hacker Lang (to install run hacker unpack hl-addons).
 
-## hlp
+### hlp
 CLI version of hli (to install run hacker unpack hl-addons)
 
 ### hli
