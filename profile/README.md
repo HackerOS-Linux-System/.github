@@ -28,6 +28,8 @@ The Atomic edition is the immuntable edition of HackerOS. The system includes th
 HackerOS is released every 2 or 3 weeks. Previously, it was released every 1 or 2 weeks. Xfce, Gnome and Hydra editions are available in versions x.0 and x.5. However, the LTS version is released in versions x.0.
 
 ## HackerOS CLI Tools:
+### virus
+This is a tool designed for the Hacker Script programming language. Installation is performed using the hacker unpack hackerscript command. Hacker Script is a full-featured, compiled programming language, not a scripting language like Hacker Lang.
 
 ### hacker
 Heart of HackerOS install additional software update the entire system quickly (flatpak snapshot firmware and apt)
