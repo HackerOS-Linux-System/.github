@@ -37,17 +37,11 @@ Heart of HackerOS install additional software update the entire system quickly (
 ### hl
 Tool for smaller projects/scripts.
 
-### hackerc
-Compiler for Hacker Lang (to install run hacker unpack hl-addons).
-
-### hlp
-CLI version of hli (to install run hacker unpack hl-addons)
-
 ### hli
-A tool for larger projects in hacker lang (in interactive).
+A tool for larger projects in hacker lang (in interactive). To install it use hacker unpack hl-addons.
 
 ### bytes
-Library/plugin/source manager from the bytes repository for hacker lang.
+Library/plugin/source manager from the bytes repository for hacker lang. To install it use hacker unpack hl-addons.
 
 ### hpm
 Community repository - a tool inspired by yay..
