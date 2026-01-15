@@ -1,4 +1,4 @@
-# ![HackerOS Linux System based on Debian Testing.](https://github.com/HackerOS-Linux-System/HackerOS-Website/blob/main/addons/watermark.png)
+# ![HackerOS Linux System based on Debian Testing.](https://raw.githubusercontent.com/HackerOS-Linux-System/HackerOS-Website/main/addons/watermark.png)
 # HackerOS based on Debian Testing
 A Linux distribution for everyone. Play and learn ethical hacking.
 
@@ -78,6 +78,12 @@ Hacker Launcher is designed primarily to run .exe applications.
 ### HackerOS Steam
 Launch Steam in the container.
 
+### HackerOS Builder
+Special live build overlay (for easier image building).
+
+### HackerOS Store
+Install game launchers, penetration testing tools, and drivers or applications.
+
 ###
 
 ## HackerOS Sessions:
@@ -103,12 +109,12 @@ Unfortunately, the game written in Python does not quite work as it should.
 A game inspired by Galaxy Attack written in Rust.
 
 # Screenshots
-# ![HackerOS Official.](https://github.com/HackerOS-Linux-System/HackerOS-Website/blob/main/official-edition.png)
+# ![HackerOS Official.](https://raw.githubusercontent.com/HackerOS-Linux-System/HackerOS-Website/main/official-edition.png)
 
-# ![HackerOS Hydra.](https://github.com/HackerOS-Linux-System/HackerOS-Website/blob/main/hydra-edition.png)
+# ![HackerOS Hydra.](https://raw.githubusercontent.com/HackerOS-Linux-System/HackerOS-Website/main/hydra-edition.png)
 
-# ![HackerOS Gnome.](https://github.com/HackerOS-Linux-System/HackerOS-Website/blob/main/gnome-edition.png)
+# ![HackerOS Gnome.](https://raw.githubusercontent.com/HackerOS-Linux-System/HackerOS-Website/main/gnome-edition.png)
 
-# ![HackerOS Xfce.](https://github.com/HackerOS-Linux-System/HackerOS-Website/blob/main/xfce-edition.png)
+# ![HackerOS Xfce.](https://raw.githubusercontent.com/HackerOS-Linux-System/HackerOS-Website/main/xfce-edition.png)
 
-# ![HackerOS Gaming Edition.](https://github.com/HackerOS-Linux-System/HackerOS-Website/blob/main/gaming-edition.png)
+# ![HackerOS Gaming Edition.](https://raw.githubusercontent.com/HackerOS-Linux-System/HackerOS-Website/main/gaming-edition.png)
