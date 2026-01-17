@@ -53,7 +53,7 @@ Automatic update system.
 Nano-inspired tool.
 
 ### isolator
-Install tools in isolated rootfs.
+The tool will be available in an atomic edition in the future. Download tools from multiple containers as normal applications (the tool has its own dedicated package list/repository).
 
 ### hammer
 Atomic cli tool for HackerOS editions atomic.
@@ -96,6 +96,9 @@ This is a cybersecurity session, it is a tool built into the cybersecurity editi
 
 ### HackerOS TV
 Watching session install it using hacker unpack hackeros-tv.
+
+### gamescope-session-steam
+A special Steam session (like Bazzite or Chimeraos) uses the HackerOS-Steam container for Steam and GameScope. Used in the Gaming Edition.
 
 ## HackerOS Games:
 
