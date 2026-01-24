@@ -6,14 +6,17 @@ A Linux distribution for everyone. Play and learn ethical hacking.
 ## Official
 This is the standard edition of HackerOS. It's intended for casual users and gamers.
 
+## Cybersecurity
+HackerOS edition with pre-installed cybersecurity tools and special HackerOS tools. Based on Debian Stable
+
+## NVIDIA
+The nvidia edition is also a copy of the official edition but with nvidia drivers installed.
+
 ### Xfce
 It is the same as the official edition but instead of KDE it has Xfce.
 
 ### Gnome
 It is the same as the official edition but instead of KDE it has Gnome.
-
-## Cybersecurity
-HackerOS edition with pre-installed cybersecurity tools and special HackerOS tools. Based on Debian Stable
 
 ## Hydra
 The Hydra edition has the Garuda Linux look (partially) and has everything the same as the official one.
@@ -29,7 +32,7 @@ HackerOS is released every 2 or 3 weeks. Previously, it was released every 1 or 
 
 ## HackerOS CLI Tools:
 ### virus
-This is a tool designed for the Hacker Script programming language. Installation is performed using the hacker unpack hackerscript command. Hacker Script is a full-featured, compiled programming language, not a scripting language like Hacker Lang.
+This is a tool designed for the H# programming language. Installation is performed using the hacker unpack h-sharp command. Hacker Script is a full-featured, compiled programming language, not a scripting language like Hacker Lang.
 
 ### hacker
 Heart of HackerOS install additional software update the entire system quickly (flatpak snapshot firmware and apt)
@@ -89,7 +92,7 @@ Install game launchers, penetration testing tools, and drivers or applications.
 ## HackerOS Sessions:
 
 ### Hacker Mode
-Session uses cage. You can install it using hacker unpack hacker-mode.
+Session uses own compositor. You can install it using hacker unpack hacker-mode.
 
 ### Security Mode
 This is a cybersecurity session, it is a tool built into the cybersecurity edition, while in the regular edition you can install it using hacker unpack cybersecurity.
