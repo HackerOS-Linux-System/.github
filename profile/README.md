@@ -18,8 +18,11 @@ It is the same as the official edition but instead of KDE it has Xfce.
 ### Gnome
 It is the same as the official edition but instead of KDE it has Gnome.
 
-## Hydra
+### Hydra
 The Hydra edition has the Garuda Linux look (partially) and has everything the same as the official one.
+
+### Blue 
+The version is independent of the independent release, with the difference that the KDE Plasma environment is proprietary to Blue Environment.
 
 ## LTS
 This is the same version as the official one, but it has Debian stable instead of Debian testing.
