@@ -27,6 +27,9 @@ The version is independent of the independent release, with the difference that 
 ## LTS
 This is the same version as the official one, but it has Debian stable instead of Debian testing.
 
+## Gaming
+The Gaming Edition, inspired by SteamOS, is available in two variants: the older one, based on the Liquorix kernel, and the newer one, using the XanMod kernel.
+
 ## Atomic
 The Atomic edition is the immuntable edition of HackerOS. The system includes the Hammer tool for atomic updates, package installations, and container installations. The atomicity system applies to Btrfs snapshots.
 
@@ -50,7 +53,10 @@ A tool for larger projects in hacker lang (in interactive). To install it use ha
 Library/plugin/source manager from the bytes repository for hacker lang. To install it use hacker unpack hl-addons.
 
 ### hpm
-Community repository - a tool inspired by yay..
+Community repository - a tool inspired by yay.
+
+### HackerOS Steam
+Steam in arch container.
 
 ### hup
 Automatic update system.
@@ -63,6 +69,12 @@ The tool will be available in an atomic edition in the future. Download tools fr
 
 ### hammer
 Atomic cli tool for HackerOS editions atomic.
+
+### HackerOS Builder
+Special live build overlay (for easier image building).
+
+### GameFrame
+A gamescope-inspired composer for older graphics cards.
 
 ## HackerOS Apps:
 
@@ -80,12 +92,6 @@ HackerOS Welcome App.
 
 ### Hacker Launcher
 Hacker Launcher is designed primarily to run .exe applications.
-
-### HackerOS Steam
-Launch Steam in the container.
-
-### HackerOS Builder
-Special live build overlay (for easier image building).
 
 ### HackerOS Store
 Install game launchers, penetration testing tools, and drivers or applications.
@@ -127,3 +133,5 @@ A game inspired by Galaxy Attack written in Rust.
 # ![HackerOS Xfce.](https://raw.githubusercontent.com/HackerOS-Linux-System/HackerOS-Website/main/xfce-edition.png)
 
 # ![HackerOS Gaming Edition.](https://raw.githubusercontent.com/HackerOS-Linux-System/HackerOS-Website/main/gaming-edition.png)
+
+# ![HackerOS Blue Edition.](https://raw.githubusercontent.com/HackerOS-Linux-System/HackerOS-Website/main/blue-edition.png)
