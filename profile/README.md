@@ -34,7 +34,7 @@ The Gaming Edition, inspired by SteamOS, is available in two variants: the older
 The Atomic edition is the immuntable edition of HackerOS. The system includes the Hammer tool for atomic updates, package installations, and container installations. The atomicity system applies to Btrfs snapshots.
 
 # How often is HackerOS released ?
-HackerOS is released every 2 or 3 weeks. Previously, it was released every 1 or 2 weeks. Xfce, Gnome and Hydra editions are available in versions x.0 and x.5. However, the LTS version is released in versions x.0.
+HackerOS is released monthly. Xfce, Gnome, and Hydra editions are available in versions x.0 and x.5. The LTS version is released in versions x.0.
 
 ## HackerOS CLI Tools:
 ### virus
@@ -63,6 +63,9 @@ Automatic update system.
 
 ### hedit
 Nano-inspired tool.
+
+### ngt
+It is a terminal-based file manager (TUI) with a built-in text editor and command console.
 
 ### isolator
 The tool will be available in an atomic edition in the future. Download tools from multiple containers as normal applications (the tool has its own dedicated package list/repository).
