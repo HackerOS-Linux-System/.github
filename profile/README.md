@@ -38,7 +38,7 @@ HackerOS is released monthly. Xfce, Gnome, and Hydra editions are available in v
 
 ## HackerOS CLI Tools:
 ### virus
-This is a tool designed for the H# programming language. Installation is performed using the hacker unpack h-sharp command. Hacker Script is a full-featured, compiled programming language, not a scripting language like Hacker Lang.
+This is a tool designed for the Hacker Lang Advanced.
 
 ### hacker
 Heart of HackerOS install additional software update the entire system quickly (flatpak snapshot firmware and apt)
@@ -72,6 +72,15 @@ The tool will be available in an atomic edition in the future. Download tools fr
 
 ### hammer
 Atomic cli tool for HackerOS editions atomic.
+
+### bph
+Penetration testing tool (brilliant for beginners).
+
+### h-pkg
+Fronted for apt.
+
+### hbuild
+Instead of using make or meson, use hbuild (a modern alternative).
 
 ### HackerOS Builder
 Special live build overlay (for easier image building).
