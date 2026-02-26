@@ -128,6 +128,9 @@ This is a cybersecurity session, it is a tool built into the cybersecurity editi
 ### HackerOS TV
 Watching session install it using hacker unpack hackeros-tv.
 
+### HackerLand
+Own tiling window manager.
+
 ### gamescope-session-steam
 A special Steam session (like Bazzite or Chimeraos) uses the HackerOS-Steam container for Steam and GameScope. Used in the Gaming Edition.
 
@@ -135,6 +138,9 @@ A special Steam session (like Bazzite or Chimeraos) uses the HackerOS-Steam cont
 
 ### Bit Jump
 An application written in lua inspired by geometry dash.
+
+### Bark Squadron
+A game inspired by dogfight night.
 
 ### The Racer
 Unfortunately, the game written in Python does not quite work as it should.
