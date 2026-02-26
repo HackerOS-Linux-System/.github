@@ -37,8 +37,6 @@ The Atomic edition is the immuntable edition of HackerOS. The system includes th
 HackerOS is released monthly. Xfce, Gnome, and Hydra editions are available in versions x.0 and x.5. The LTS version is released in versions x.0.
 
 ## HackerOS CLI Tools:
-### virus
-This is a tool designed for the Hacker Lang Advanced.
 
 ### hacker
 Heart of HackerOS install additional software update the entire system quickly (flatpak snapshot firmware and apt)
@@ -46,8 +44,11 @@ Heart of HackerOS install additional software update the entire system quickly (
 ### hl
 Tool for smaller projects/scripts.
 
+### virus
+CLI tool for larger projects written in Hacker Lang. To install it use hacker unpack hl-addons.
+
 ### hli
-A tool for larger projects in hacker lang (in interactive). To install it use hacker unpack hl-addons.
+Interactive version for cli hl tool. To install it use hacker unpack hl-addons.
 
 ### bytes
 Library/plugin/source manager from the bytes repository for hacker lang. To install it use hacker unpack hl-addons.
@@ -57,6 +58,12 @@ Community repository - a tool inspired by yay.
 
 ### HackerOS Steam
 Steam in arch container.
+
+### getit
+An alternative to wget/git, Gerrit can also be used to download directories from GitHub or GitLab.
+
+### chker
+A cli tool that removes the current debian kernel and installs a custom one (xanmod or liquorix).
 
 ### hup
 Automatic update system.
