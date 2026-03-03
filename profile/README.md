@@ -74,6 +74,9 @@ It is a terminal-based file manager (TUI) with a built-in text editor and comman
 ### isolator
 The tool will be available in an atomic edition in the future. Download tools from multiple containers as normal applications (the tool has its own dedicated package list/repository).
 
+### lpm
+A package manager that is expected to replace apt in the future.
+
 ### hammer
 Atomic cli tool for HackerOS editions atomic.
 
