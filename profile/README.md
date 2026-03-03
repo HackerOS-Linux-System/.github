@@ -44,14 +44,11 @@ Heart of HackerOS install additional software update the entire system quickly (
 ### hl
 Tool for smaller projects/scripts.
 
-### virus
-CLI tool for larger projects written in Hacker Lang. To install it use hacker unpack hl-addons.
+### bit
+Package manager for Hacker Lang.
 
 ### hli
 Interactive version for cli hl tool. To install it use hacker unpack hl-addons.
-
-### bytes
-Library/plugin/source manager from the bytes repository for hacker lang. To install it use hacker unpack hl-addons.
 
 ### hpm
 Community repository - a tool inspired by yay.
@@ -79,6 +76,9 @@ The tool will be available in an atomic edition in the future. Download tools fr
 
 ### hammer
 Atomic cli tool for HackerOS editions atomic.
+
+### chker
+choker - change kernel. CLI tool for changing the system kernel.
 
 ### bph
 Penetration testing tool (brilliant for beginners).
