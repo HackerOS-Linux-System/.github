@@ -125,9 +125,6 @@ Install game launchers, penetration testing tools, and drivers or applications.
 ### Hacker Mode
 Session uses own compositor. You can install it using hacker unpack hacker-mode.
 
-### Security Mode
-This is a cybersecurity session, it is a tool built into the cybersecurity edition, while in the regular edition you can install it using hacker unpack cybersecurity.
-
 ### HackerOS TV
 Watching session install it using hacker unpack hackeros-tv.
 
