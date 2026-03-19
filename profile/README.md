@@ -80,14 +80,14 @@ A package manager that is expected to replace apt in the future.
 ### hammer
 Atomic cli tool for HackerOS editions atomic.
 
+### virus
+Package manager for HackerScript.
+
 ### chker
 choker - change kernel. CLI tool for changing the system kernel.
 
 ### bph
 Penetration testing tool (brilliant for beginners).
-
-### h-pkg
-Fronted for apt.
 
 ### hbuild
 Instead of using make or meson, use hbuild (a modern alternative).
