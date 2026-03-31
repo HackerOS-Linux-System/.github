@@ -42,13 +42,22 @@ HackerOS is released monthly. Xfce, Gnome, and Hydra editions are available in v
 Heart of HackerOS install additional software update the entire system quickly (flatpak snapshot firmware and apt)
 
 ### hl
-Tool for smaller projects/scripts.
+CLI tool for Hacker Lang.
+
+### h#
+CLI roll for H#.
+
+### hackerc
+Compiler for HackerScript
+
+### bytes
+Package manager for H# (cybersecurity libs).
+
+### virus
+Package manager for HackerScript.
 
 ### bit
-Package manager for Hacker Lang.
-
-### hli
-Interactive version for cli hl tool. To install it use hacker unpack hl-addons.
+Advanced Package manager for HackerScript.
 
 ### hpm
 Community repository - a tool inspired by yay.
@@ -80,9 +89,6 @@ A package manager that is expected to replace apt in the future.
 ### hammer
 Atomic cli tool for HackerOS editions atomic.
 
-### virus
-Package manager for HackerScript.
-
 ### chker
 choker - change kernel. CLI tool for changing the system kernel.
 
@@ -91,6 +97,9 @@ Penetration testing tool (brilliant for beginners).
 
 ### hbuild
 Instead of using make or meson, use hbuild (a modern alternative).
+
+### HexAi
+AI for HackerOS.
 
 ### HackerOS Builder
 Special live build overlay (for easier image building).
@@ -127,9 +136,6 @@ Session uses own compositor. You can install it using hacker unpack hacker-mode.
 
 ### HackerOS TV
 Watching session install it using hacker unpack hackeros-tv.
-
-### HackerLand
-Own tiling window manager.
 
 ### gamescope-session-steam
 A special Steam session (like Bazzite or Chimeraos) uses the HackerOS-Steam container for Steam and GameScope. Used in the Gaming Edition.
