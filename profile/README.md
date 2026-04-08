@@ -47,17 +47,14 @@ CLI tool for Hacker Lang.
 ### h#
 CLI roll for H#.
 
-### hackerc
-Compiler for HackerScript
-
 ### bytes
-Package manager for H# (cybersecurity libs).
+Package manager for H# (jit runtime).
 
 ### virus
-Package manager for HackerScript.
+Package manager for H# (aot runtime).
 
-### bit
-Advanced Package manager for HackerScript.
+### hhc
+LLVM compiler for H# (HackerOS H# Compiler).
 
 ### hpm
 Community repository - a tool inspired by yay.
