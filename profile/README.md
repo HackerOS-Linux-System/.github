@@ -137,6 +137,9 @@ Watching session install it using hacker unpack hackeros-tv.
 ### gamescope-session-steam
 A special Steam session (like Bazzite or Chimeraos) uses the HackerOS-Steam container for Steam and GameScope. Used in the Gaming Edition.
 
+### Cybersecurity Edition
+Session with its own tools/overlay for other tools for cybersecurity edition (this is both a session and an application).
+
 ## HackerOS Games:
 
 ### Bit Jump
