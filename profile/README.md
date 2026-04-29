@@ -44,14 +44,20 @@ Heart of HackerOS install additional software update the entire system quickly (
 ### hl
 CLI tool for Hacker Lang.
 
+### bit
+Package manager for Hacker Lang.
+
 ### h#
 CLI roll for H#.
 
-### bytes
+### nula
 Package manager for H# (jit runtime).
 
-### virus
+### vira
 Package manager for H# (aot runtime).
+
+### virus
+Bytecode and VM compiler for H#.
 
 ### hhc
 LLVM compiler for H# (HackerOS H# Compiler).
@@ -139,6 +145,9 @@ A special Steam session (like Bazzite or Chimeraos) uses the HackerOS-Steam cont
 
 ### Cybersecurity Edition
 Session with its own tools/overlay for other tools for cybersecurity edition (this is both a session and an application).
+
+### Blue Environment 
+A graphical environment written in Rust + TypeScript. Used in the Blue edition.
 
 ## HackerOS Games:
 
