@@ -154,7 +154,7 @@ As a library for: Rust, H#, Hacker Lang
 
 Documentation for both formats is available at: [.hk and .hacker docs](https://hackeros-linux-system.github.io/HackerOS-Website/tools-docs/hk.html)
 
-## ackerOS Games:
+## HackerOS Games:
 
 ### Bit Jump
 An application written in lua inspired by geometry dash.
