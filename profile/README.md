@@ -50,14 +50,8 @@ Package manager for Hacker Lang.
 ### h#
 CLI roll for H#.
 
-### nula
-Package manager for H# (jit runtime).
-
-### vira
-Package manager for H# (aot runtime).
-
-### virus
-Bytecode and VM compiler for H#.
+### bytes
+Package manager for H#.
 
 ### hhc
 LLVM compiler for H# (HackerOS H# Compiler).
@@ -149,7 +143,18 @@ Session with its own tools/overlay for other tools for cybersecurity edition (th
 ### Blue Environment 
 A graphical environment written in Rust + TypeScript. Used in the Blue edition.
 
-## HackerOS Games:
+## Configuration formats:
+
+### .hk
+As a library for: Rust, H#, Hacker Lang
+
+[crates.io](https://crates.io/crates/hk-parser)
+
+### .hacker
+
+Documentation for both formats is available at: [.hk and .hacker docs](https://hackeros-linux-system.github.io/HackerOS-Website/tools-docs/hk.html)
+
+## ackerOS Games:
 
 ### Bit Jump
 An application written in lua inspired by geometry dash.
