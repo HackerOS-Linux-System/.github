@@ -28,7 +28,7 @@ The version is independent of the independent release, with the difference that 
 This is the same version as the official one, but it has Debian stable instead of Debian testing.
 
 ## Gaming
-The Gaming Edition, inspired by SteamOS, is available in two variants: the older one, based on the Liquorix kernel, and the newer one, using the XanMod kernel.
+The SteamOS-inspired Gaming Edition features the XanMod LTS kernel and a SteamOS-like game mode.
 
 ## Atomic
 The Atomic edition is the immutable edition of HackerOS. The system uses atomic package transactions where each operation creates a new generation (gen-N) stored in a content-addressed store. Changes can activate immediately (user mode) or after reboot (system mode), with rollback support via GRUB. An integrity guardian ensures the package store remains read-only and cryptographically verified.
