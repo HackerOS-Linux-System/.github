@@ -31,10 +31,10 @@ This is the same version as the official one, but it has Debian stable instead o
 The Gaming Edition, inspired by SteamOS, is available in two variants: the older one, based on the Liquorix kernel, and the newer one, using the XanMod kernel.
 
 ## Atomic
-The Atomic edition is the immuntable edition of HackerOS. The system includes the Hammer tool for atomic updates, package installations, and container installations. The atomicity system applies to Btrfs snapshots.
+The Atomic edition is the immutable edition of HackerOS. The system uses atomic package transactions where each operation creates a new generation (gen-N) stored in a content-addressed store. Changes can activate immediately (user mode) or after reboot (system mode), with rollback support via GRUB. An integrity guardian ensures the package store remains read-only and cryptographically verified.
 
 # How often is HackerOS released ?
-HackerOS is released monthly. Xfce, Gnome, and Hydra editions are available in versions x.0 and x.5. The LTS version is released in versions x.0.
+HackerOS follows a monthly release cycle. The Xfce, GNOME, and Hydra editions are released at versions x.0 and x.5. The LTS edition is available only at x.0 versions, while the Gaming edition comes out at x.3 and x.7. The Atomic edition is released at x.1 and x.9.
 
 ## HackerOS CLI Tools:
 
