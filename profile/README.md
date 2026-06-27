@@ -7,7 +7,7 @@ A Linux distribution for everyone. Play and learn ethical hacking.
 This is the standard edition of HackerOS. It's intended for casual users and gamers.
 
 ## Cybersecurity
-HackerOS edition with pre-installed cybersecurity tools and special HackerOS tools. Based on Debian Stable
+This edition is aimed at cybersecurity, primarily for the Red Team. It features a dedicated kernel (HackerOS Kernel) optimized for cybersecurity, a XEN hypervisor, a proprietary Cybersecurity Mode graphical environment, proprietary cybersecurity tools, and, in the future, a proprietary GhostFS file system. Based on Debian Stable.
 
 ## NVIDIA
 The nvidia edition is also a copy of the official edition but with nvidia drivers installed.
@@ -22,7 +22,7 @@ It is the same as the official edition but instead of KDE it has Gnome.
 The Hydra edition has the Garuda Linux look (partially) and has everything the same as the official one.
 
 ### Blue 
-The version is independent of the independent release, with the difference that the KDE Plasma environment is proprietary to Blue Environment.
+The Blue edition uses the proprietary graphical environment known from the LegendaryOS system.
 
 ## LTS
 This is the same version as the official one, but it has Debian stable instead of Debian testing.
@@ -48,13 +48,10 @@ CLI tool for Hacker Lang.
 Package manager for Hacker Lang.
 
 ### h#
-CLI roll for H#.
+LLVM compiler and interpreter for the H# programming language.
 
 ### bytes
 Package manager for H#.
-
-### hhc
-LLVM compiler for H# (HackerOS H# Compiler).
 
 ### hpm
 Community repository - a tool inspired by yay.
@@ -80,20 +77,17 @@ It is a terminal-based file manager (TUI) with a built-in text editor and comman
 ### isolator
 The tool will be available in an atomic edition in the future. Download tools from multiple containers as normal applications (the tool has its own dedicated package list/repository).
 
-### lpm
-A package manager that is expected to replace apt in the future.
-
 ### hammer
 Atomic cli tool for HackerOS editions atomic.
+
+### deb-ostree
+A standalone package manager inspired by rpm-ostree (primarily created for HackerOS Cybersecurity edition).
 
 ### chker
 choker - change kernel. CLI tool for changing the system kernel.
 
 ### bph
 Penetration testing tool (brilliant for beginners).
-
-### hbuild
-Instead of using make or meson, use hbuild (a modern alternative).
 
 ### HexAi
 AI for HackerOS.
@@ -138,10 +132,7 @@ Watching session install it using hacker unpack hackeros-tv.
 A special Steam session (like Bazzite or Chimeraos) uses the HackerOS-Steam container for Steam and GameScope. Used in the Gaming Edition.
 
 ### Cybersecurity Edition
-Session with its own tools/overlay for other tools for cybersecurity edition (this is both a session and an application).
-
-### Blue Environment 
-A graphical environment written in Rust + TypeScript. Used in the Blue edition.
+Both the graphical environment and a special session for the cybersecurity edition.
 
 ## Configuration formats:
 
@@ -154,19 +145,7 @@ As a library for: Rust, H#, Hacker Lang
 
 Documentation for both formats is available at: [.hk and .hacker docs](https://hackeros-linux-system.github.io/HackerOS-Website/tools-docs/hk.html)
 
-## HackerOS Games:
-
-### Bit Jump
-An application written in lua inspired by geometry dash.
-
-### Bark Squadron
-A game inspired by dogfight night.
-
-### The Racer
-Unfortunately, the game written in Python does not quite work as it should.
-
-### StarBlaster
-A game inspired by Galaxy Attack written in Rust.
+Documentation for all HackerOS tools can be found here: https://hackeros-linux-system.github.io/HackerOS-Website/tools-docs/index.html
 
 # Screenshots
 # ![HackerOS Official.](https://raw.githubusercontent.com/HackerOS-Linux-System/HackerOS-Website/main/official-edition.png)
@@ -177,6 +156,8 @@ A game inspired by Galaxy Attack written in Rust.
 
 # ![HackerOS Xfce.](https://raw.githubusercontent.com/HackerOS-Linux-System/HackerOS-Website/main/xfce-edition.png)
 
-# ![HackerOS Gaming Edition.](https://raw.githubusercontent.com/HackerOS-Linux-System/HackerOS-Website/main/gaming-edition.png)
+# ![HackerOS Gaming.](https://raw.githubusercontent.com/HackerOS-Linux-System/HackerOS-Website/main/gaming-edition.png)
 
-# ![HackerOS Blue Edition.](https://raw.githubusercontent.com/HackerOS-Linux-System/HackerOS-Website/main/blue-edition.png)
+# ![HackerOS Blue.](https://raw.githubusercontent.com/HackerOS-Linux-System/HackerOS-Website/main/blue-edition.png)
+
+# ![HackerOS Cybersecurity.](https://raw.githubusercontent.com/HackerOS-Linux-System/HackerOS-Website/main/cybersecurity-edition-edition.png)
