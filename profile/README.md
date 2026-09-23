@@ -7,7 +7,10 @@ A Linux distribution for everyone. Play and learn ethical hacking.
 This is the standard edition of HackerOS. It's intended for casual users and gamers.
 
 ## Cybersecurity
-This edition is aimed at cybersecurity, primarily for the Red Team. It features a dedicated kernel (HackerOS Kernel) optimized for cybersecurity, a XEN hypervisor, a proprietary Cybersecurity Mode graphical environment, proprietary cybersecurity tools, and, in the future, a proprietary GhostFS file system. Based on Debian Stable.
+This edition is aimed at cybersecurity (generally). It features a dedicated kernel (HackerOS Kernel) optimized for cybersecurity, a proprietary cybersecurity tools, and, in the future, a proprietary GhostFS file system. Based on Debian Stable.
+
+## Cybersecurity Default
+The HackerOS edition tailored for cybersecurity is designed exclusively for Red Teams. While "Cybersecurity Default" includes the Xen Hypervisor (and the kernel and other components familiar from the standard cybersecurity edition), it also features a dedicated Red Team session known as "Penetration Mode."
 
 ## NVIDIA
 The nvidia edition is also a copy of the official edition but with nvidia drivers installed.
@@ -22,7 +25,7 @@ It is the same as the official edition but instead of KDE it has Gnome.
 The Hydra edition has the Garuda Linux look (partially) and has everything the same as the official one.
 
 ### Blue 
-The Blue edition uses the proprietary graphical environment known from the LegendaryOS system.
+HackerOS edition featuring a custom graphical environment.
 
 ## LTS
 This is the same version as the official one, but it has Debian stable instead of Debian testing.
@@ -34,7 +37,7 @@ The SteamOS-inspired Gaming Edition features the XanMod LTS kernel and a SteamOS
 The Atomic edition is the immutable edition of HackerOS. The system uses atomic package transactions where each operation creates a new generation (gen-N) stored in a content-addressed store. Changes can activate immediately (user mode) or after reboot (system mode), with rollback support via GRUB. An integrity guardian ensures the package store remains read-only and cryptographically verified.
 
 # How often is HackerOS released ?
-HackerOS follows a monthly release cycle. The Xfce, GNOME, and Hydra editions are released at versions x.0 and x.5. The LTS edition is available only at x.0 versions, while the Gaming edition comes out at x.3 and x.7. The Atomic edition is released at x.1 and x.9.
+HackerOS follows a two-month release cycle. The Xfce, GNOME, Blue, and Hydra editions are released as x.0 and x.5 versions. The LTS edition is available exclusively with x.0 releases, while the Gaming edition is released with x.3 and x.7 versions. The Atomic edition is released with x.1 and x.9 versions.
 
 ## HackerOS CLI Tools:
 
@@ -42,7 +45,7 @@ HackerOS follows a monthly release cycle. The Xfce, GNOME, and Hydra editions ar
 Heart of HackerOS install additional software update the entire system quickly (flatpak snapshot firmware and apt)
 
 ### hl
-CLI tool for Hacker Lang.
+Interpreter for Hacker Lang.
 
 ### bit
 Package manager for Hacker Lang.
@@ -79,9 +82,6 @@ The tool will be available in an atomic edition in the future. Download tools fr
 
 ### hammer
 Atomic cli tool for HackerOS editions atomic.
-
-### deb-ostree
-A standalone package manager inspired by rpm-ostree (primarily created for HackerOS Cybersecurity edition).
 
 ### chker
 choker - change kernel. CLI tool for changing the system kernel.
