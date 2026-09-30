@@ -63,14 +63,14 @@ HackerOS folgt einem zweimonatigen Release-Zyklus. Die Editionen Xfce, GNOME, Bl
 **Wo finde ich die H#-Website?**
 [https://hackeros-linux-system.github.io/HackerOS-Website/h-sharp/docs.html](https://hackeros-linux-system.github.io/HackerOS-Website/h-sharp/docs.html)
 
-**Wo finde ich die bytes.io-Website?**
-[https://bytes-repository.github.io/website/](https://bytes-repository.github.io/website/)
-
 **Wo finde ich die Hacker-Lang-Website?**
 [https://hackeros-linux-system.github.io/HackerOS-Website/hacker-lang/docs.html](https://hackeros-linux-system.github.io/HackerOS-Website/hacker-lang/docs.html)
 
 **Wo finde ich bit.io?**
-[https://bit-io.github.io/website/](https://bit-io.github.io/website/)
+[https://hackeros-linux-system.github.io/bit/](https://hackeros-linux-system.github.io/bit/)
+
+**Wo finde ich die HackerScript-Website?**
+[https://hackeros-linux-system.github.io/HackerOS-Website/tools-docs/HackerScript/docs.html](https://hackeros-linux-system.github.io/HackerOS-Website/tools-docs/HackerScript/docs.html)
 
 </details>
 
