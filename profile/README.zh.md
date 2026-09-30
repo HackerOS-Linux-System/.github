@@ -63,14 +63,14 @@ HackerOS 遵循两个月一次的发布周期。Xfce、GNOME、Blue 和 Hydra �
 **在哪里可以找到 H# 的网站？**
 [https://hackeros-linux-system.github.io/HackerOS-Website/h-sharp/docs.html](https://hackeros-linux-system.github.io/HackerOS-Website/h-sharp/docs.html)
 
-**在哪里可以找到 bytes.io 的网站？**
-[https://bytes-repository.github.io/website/](https://bytes-repository.github.io/website/)
-
 **在哪里可以找到 Hacker Lang 的网站？**
 [https://hackeros-linux-system.github.io/HackerOS-Website/hacker-lang/docs.html](https://hackeros-linux-system.github.io/HackerOS-Website/hacker-lang/docs.html)
 
 **在哪里可以找到 bit.io？**
-[https://bit-io.github.io/website/](https://bit-io.github.io/website/)
+[https://hackeros-linux-system.github.io/bit/](https://hackeros-linux-system.github.io/bit/)
+
+**在哪里可以找到 HackerScript 的网站？**
+[https://hackeros-linux-system.github.io/HackerOS-Website/tools-docs/HackerScript/docs.html](https://hackeros-linux-system.github.io/HackerOS-Website/tools-docs/HackerScript/docs.html)
 
 </details>
 
