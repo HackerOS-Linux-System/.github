@@ -63,14 +63,14 @@ O HackerOS segue um ciclo de lançamento bimestral. As edições Xfce, GNOME, Bl
 **Onde encontro o site do H#?**
 [https://hackeros-linux-system.github.io/HackerOS-Website/h-sharp/docs.html](https://hackeros-linux-system.github.io/HackerOS-Website/h-sharp/docs.html)
 
-**Onde encontro o site do bytes.io?**
-[https://bytes-repository.github.io/website/](https://bytes-repository.github.io/website/)
-
 **Onde encontro o site do Hacker Lang?**
 [https://hackeros-linux-system.github.io/HackerOS-Website/hacker-lang/docs.html](https://hackeros-linux-system.github.io/HackerOS-Website/hacker-lang/docs.html)
 
 **Onde encontro o bit.io?**
-[https://bit-io.github.io/website/](https://bit-io.github.io/website/)
+[https://hackeros-linux-system.github.io/bit/](https://hackeros-linux-system.github.io/bit/)
+
+**Onde encontro o site do HackerScript?**
+[https://hackeros-linux-system.github.io/HackerOS-Website/tools-docs/HackerScript/docs.html](https://hackeros-linux-system.github.io/HackerOS-Website/tools-docs/HackerScript/docs.html)
 
 </details>
 
