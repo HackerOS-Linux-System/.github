@@ -63,14 +63,14 @@ HackerOS wydawany jest w dwumiesięcznym cyklu. Edycje Xfce, GNOME, Blue i Hydra
 **Gdzie znajdę stronę H#?**
 [https://hackeros-linux-system.github.io/HackerOS-Website/h-sharp/docs.html](https://hackeros-linux-system.github.io/HackerOS-Website/h-sharp/docs.html)
 
-**Gdzie znajdę stronę bytes.io?**
-[https://bytes-repository.github.io/website/](https://bytes-repository.github.io/website/)
-
 **Gdzie znajdę stronę Hacker Lang?**
 [https://hackeros-linux-system.github.io/HackerOS-Website/hacker-lang/docs.html](https://hackeros-linux-system.github.io/HackerOS-Website/hacker-lang/docs.html)
 
 **Gdzie znajdę bit.io?**
-[https://bit-io.github.io/website/](https://bit-io.github.io/website/)
+[https://hackeros-linux-system.github.io/bit/](https://hackeros-linux-system.github.io/bit/)
+
+**Gdzie znajdę stronę HackerScript?**
+[https://hackeros-linux-system.github.io/HackerOS-Website/tools-docs/HackerScript/docs.html](https://hackeros-linux-system.github.io/HackerOS-Website/tools-docs/HackerScript/docs.html)
 
 </details>
 
